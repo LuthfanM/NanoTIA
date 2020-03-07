@@ -1,0 +1,1 @@
+export const SET_LIST_DATA = "LIST_DATA_NANOTIA";
