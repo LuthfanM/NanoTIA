@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Fixed :
+Added "Public" folder.
+Now project can be run by command 
+npm Install -> npm start
+
 ===========================================================
 
 Introduction
